@@ -1,4 +1,4 @@
-## All of our cutest Cyan!!
+# All of our cutest Cyan!!
 
 |url|image|url|image|
 |---|---|---|---|
